@@ -1,0 +1,1 @@
+http://apps.mprj.mp.br:80/geoserver/plataforma/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=plataforma:eleitoral_zonas_2016&SRSNAME=EPSG:4326&outputFormat=SHAPE-ZIP&CQL_FILTER=BBOX(geom,-43.77365112304688,-23.139097179187708,-42.933197021484375,-22.51192263246886,%27EPSG:4326%27)
